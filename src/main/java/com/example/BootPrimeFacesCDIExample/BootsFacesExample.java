@@ -1,4 +1,4 @@
-package com.example.helloworld;
+package com.example.BootPrimeFacesCDIExample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -11,7 +11,7 @@
     <groupId>com.example</groupId>
     <artifactId>BootPrimeFacesExample</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>HelloWorld</name>
+    <name>BootPrimeFacesExample</name>
     <description>A Spring Boot JSF PrimeFaces CDI Example</description>
 
     <properties>

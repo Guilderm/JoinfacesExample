@@ -1,4 +1,4 @@
-package com.example.helloworld.models;
+package com.example.BootPrimeFacesCDIExample.models;
 
 import javax.inject.Named;
 
