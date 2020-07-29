@@ -14,22 +14,22 @@
 
             <p:panel header="Hello world">
                 <h:panelGrid columns="2" cellpadding="4">
-                    <h:outputText value="First Name: " />
-                    <p:inputText id="first-name" value="#{helloWorld.firstName}" />
+                    <h:outputText value="First Name: "/>
+                    <p:inputText id="first-name" value="#{helloWorld.firstName}"/>
 
-                    <h:outputText value="Last Name: " />
-                    <p:inputText id="last-name" value="#{helloWorld.lastName}" />
+                    <h:outputText value="Last Name: "/>
+                    <p:inputText id="last-name" value="#{helloWorld.lastName}"/>
 
                     <p:commandButton id="submit" value="Submit"
                                      update="greeting-panel"
-                                     oncomplete="PF('greetingDialog').show()" />
+                                     oncomplete="PF('greetingDialog').show()"/>
                 </h:panelGrid>
             </p:panel>
 
             <p:dialog header="Greeting" widgetVar="greetingDialog"
                       modal="true" resizable="false">
                 <h:panelGrid id="greeting-panel" columns="1" cellpadding="4">
-                    <h:outputText value="#{helloWorld.showGreeting()}" />
+                    <h:outputText value="#{helloWorld.showGreeting()}"/>
                 </h:panelGrid>
             </p:dialog>
 
