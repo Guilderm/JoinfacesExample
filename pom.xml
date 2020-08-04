@@ -8,10 +8,10 @@
         <version>2.3.2.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.example</groupId>
-    <artifactId>BootPrimeFacesExample</artifactId>
+    <groupId>pro.milliner</groupId>
+    <artifactId>joinfacesexample</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>BootPrimeFacesExample</name>
+    <name>JoinfacesExample</name>
     <description>A Spring Boot JSF PrimeFaces CDI Example</description>
 
     <properties>

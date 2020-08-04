@@ -1,4 +1,4 @@
-package com.example.BootPrimeFacesCDIExample.models;
+package com.example.JoinfacesExample.models;
 
 import javax.inject.Named;
 

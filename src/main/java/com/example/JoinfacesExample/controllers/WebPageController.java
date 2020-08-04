@@ -1,4 +1,4 @@
-package com.example.BootPrimeFacesCDIExample.controllers;
+package com.example.JoinfacesExample.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
