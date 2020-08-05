@@ -4,3 +4,6 @@ This a basic exsample/demo of a appplication using:
  - Jakarta Server Faces (JSF) (formally Java Server Faces) 2.3
  - PrimeFaces 8.0
  - JoinFaces 4.3
+
+JoinFaces Reference Guide
+https://docs.joinfaces.org/current/reference/
